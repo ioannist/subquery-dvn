@@ -1,1 +1,0 @@
-export { SumReward } from "./SumReward";
